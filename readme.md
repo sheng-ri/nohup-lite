@@ -1,4 +1,4 @@
-# nohup-lite (aarch64)
+# nohup-lite (aarch64 linux)
 抛弃libc的nohup，用于大量缩减可执行文件容量。
 大部分由ai编写。
 
